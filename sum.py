@@ -13,5 +13,5 @@ print("area of rectangle =" , length*breadth)
 
 
 side = float(input("area of side :"))
-
+ 
 print("area =" , side*side)
